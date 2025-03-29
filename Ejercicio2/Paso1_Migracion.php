@@ -1,3 +1,11 @@
+Ejercicio 2 - Laravel (CRUD Básico con Eloquent)
+Problema: Crea un CRUD en Laravel para la entidad Tareas. Los campos deben ser id, titulo, descripcion y estado (pendiente/completado). Implementa las siguientes rutas:
+● POST /tareas → Crea una nueva tarea.
+● GET /tareas → Lista todas las tareas.
+● PUT /tareas/{id} → Actualiza una tarea.
+● DELETE /tareas/{id} → Elimina una tarea.
+
+
 1: Crear la Migración ejecutando
 php artisan make:migration create_tareas_table
 

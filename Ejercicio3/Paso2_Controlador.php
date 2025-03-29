@@ -1,4 +1,4 @@
-2: Configurar el controlador
+<!-- 2: Configurar el controlador -->
 
 <?php namespace App\Controllers;
 

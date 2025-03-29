@@ -1,5 +1,5 @@
-3: Configurar el controlador
-php artisan make:controller TareaController --resource
+<!-- 3: Configurar el controlador
+php artisan make:controller TareaController --resource -->
 
 <?php
 

@@ -1,5 +1,5 @@
-2: Crear el Modelo Tarea
-php artisan make:model Tarea
+<!-- 2: Crear el Modelo Tarea
+php artisan make:model Tarea -->
 
 <?php
 
